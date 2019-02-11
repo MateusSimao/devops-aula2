@@ -1,6 +1,6 @@
 # devops-aula2
 
-Adam Sandler
-Jamie Lee
-The Rock
+Adam Sandler\
+Jamie Lee\
+The Rock\
 Kevin James
